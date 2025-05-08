@@ -6,4 +6,4 @@
   #--platform=linux/arm64 xiaoyaliu/alist
 
 #ollama/ollama
-docker1007.agsv.top/openwebui/openwebui:latest
+docker.1ms.run/dyrnq/open-webui:v0.3.27-ollama
