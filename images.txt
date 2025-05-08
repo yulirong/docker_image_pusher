@@ -6,4 +6,4 @@
   #--platform=linux/arm64 xiaoyaliu/alist
 
 #ollama/ollama
-ghcr.io/openwebui/openwebui:latest
+docker1007.agsv.top/openwebui/openwebui:latest
