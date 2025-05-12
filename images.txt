@@ -9,4 +9,6 @@
 #docker.1ms.run/dyrnq/open-webui:v0.3.27-ollama
 #docker.1ms.run/ollama/ollama:0.6.8
 #docker.1ms.run/chromadb/chroma:1.0.9.dev25
-docker.1ms.run/pytorch/pytorch:2.7.0-cuda12.8-cudnn9-runtime
+#docker.1ms.run/pytorch/pytorch:2.7.0-cuda12.8-cudnn9-runtime
+docker.1ms.run/nvidia/cuda:12.9.0-cudnn-runtime-rockylinux8
+
