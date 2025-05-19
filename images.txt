@@ -14,5 +14,5 @@
 #docker.1ms.run/infiniflow/ragflow:v0.18.0
 #docker.1ms.run/library/elasticsearch:9.0.1
 #docker.1ms.run/infiniflow/ragflow:dev
-docker.1ms.run/infiniflow/ragflow:v0.16.0
-
+#docker.1ms.run/infiniflow/ragflow:v0.16.0
+docker.1ms.run/library/elasticsearch:8.16.3
