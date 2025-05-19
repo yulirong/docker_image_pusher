@@ -11,5 +11,7 @@
 #docker.1ms.run/chromadb/chroma:1.0.9.dev25
 #docker.1ms.run/pytorch/pytorch:2.7.0-cuda12.8-cudnn9-runtime
 #docker.1ms.run/nvidia/cuda:12.9.0-cudnn-runtime-rockylinux9
-docker.1ms.run/infiniflow/ragflow:v0.18.0
+#docker.1ms.run/infiniflow/ragflow:v0.18.0
+docker.1ms.run/library/elasticsearch:9.0.1
+
 
